@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+I'm looking for a full-time job as junior developer in Estonia (Tallinn) now
+
+Stack:
+ - PHP, OOP, PHPUnit, Composer
+ - MySQL, SQL
+ - HTML, CSS, JavaScript
+ - Docker, Docker compose
+ - ISPmanager, DNS servers, Nginx, Apache
+ - Linux, macOS, Vim, bash
+ - Wordpress, Drupal, DLE, KVS
+
+
+- 📌 How to contact me: gkolotov.adv🐱 gmail.com
+- 📌 My LinkedIn https://www.linkedin.com/in/gkolotov/
+
 <!--
 **kolotov/kolotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
