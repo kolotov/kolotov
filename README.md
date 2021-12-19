@@ -1,8 +1,7 @@
-<meta name="google-site-verification" content="JxJQEnT6J_WNychpugEOyp-RuLfD9w0p8_bh0-52OUM" />
 
 ### Hi there 👋
 
-I'm looking for a full-time job as junior developer in Estonia (Tallinn) now
+I'm full-time developer in Estonia (Tallinn)
 
 Stack:
  - PHP, OOP, PHPUnit, Composer
