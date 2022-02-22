@@ -4,14 +4,12 @@
 I'm full-time developer in Estonia (Tallinn)
 
 Stack:
- - PHP, OOP, PHPUnit, Composer
+ - PHP, Symfony, PHPUnit, Composer
  - MySQL, SQL
  - HTML, CSS, JavaScript
  - Docker, Docker compose
  - ISPmanager, DNS servers, Nginx, Apache
  - Linux, macOS, Vim, bash
- - Wordpress, Drupal, DLE, KVS
-
 
 - 📌 How to contact me: gkolotov.adv🐱 gmail.com
 - 📌 My LinkedIn https://www.linkedin.com/in/gkolotov/
