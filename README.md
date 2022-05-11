@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm full-time developer in Estonia (Tallinn)
+I'm full-time developer from Estonia (Tallinn)
 
 Stack:
  - PHP, Symfony, PHPUnit, Composer
